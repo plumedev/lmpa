@@ -1,0 +1,4 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "shader-validator.glsl.enabled": false
+}
